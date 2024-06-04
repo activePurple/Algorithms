@@ -7,32 +7,32 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "8EDBE5E3-68C9-4BF4-AD2D-898E5FDB60EA"
+            uuid = "16D67066-9ED6-4D0B-8D86-F0E2A61860A9"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SwiftSnowflakeDetector/main.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "identifyRight(snow1:snow2:start:)"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "identifySame(values:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "64B4EC57-A5DB-47FE-9B0D-316EB46AE757"
+            uuid = "F00ABB3F-E574-41AE-BE12-25C371AF2FBA"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SwiftSnowflakeDetector/main.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
-            landmarkName = "identifyRight(snow1:snow2:start:)"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "identifySame(values:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
